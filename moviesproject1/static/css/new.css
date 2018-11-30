@@ -1,0 +1,21 @@
+
+body{
+  background:gray;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container .jumbotron{
+    background: red;
+    color:white;
+  margin-top: 200px;
+}
+
+.container .jumbotron a{
+  background: yellow;
+  color:blue;
+  border:2px solid black;
+}
+.container .table td{
+  background: yellow;
+}
